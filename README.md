@@ -1,2 +1,2 @@
 # wttd
-Minhas lições do curso welcome to the django
+My lessons from the Welcome to the Django course.
