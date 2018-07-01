@@ -1,0 +1,17 @@
+Olá tudo bem?
+
+Muito obrigado por se escrever no eventex.
+
+Estes foram os dados que você nos forneceu em sua inscrição:
+
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Em até 48 horas utéis, a nossa equipe entrará em contato
+com você para concluirmos a sua inscrição.
+
+Atenciosamente,
+--
+A direção.
