@@ -13,4 +13,5 @@ class HomeTest(TestCase):
         self.assertTemplateUsed(self.response, 'index.html')
 
     def test_subscrition_link(self):
+        """Test if correct link exist."""
         self.assertContains(self.response, 'href="/inscricao/"')
