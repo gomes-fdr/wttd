@@ -1,5 +1,9 @@
 # Eventex
 
+[![Build Status](https://travis-ci.org/gomes-fdr/wttd.svg?branch=master)](https://travis-ci.org/gomes-fdr/wttd)
+[![Code Health](https://landscape.io/github/gomes-fdr/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/gomes-fdr/wttd/master)
+
+
 Sistema de eventos encomendado pela Morena
 
 ## Como desenvolver?
